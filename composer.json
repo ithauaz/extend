@@ -1,0 +1,20 @@
+{
+    "name": "ithauaz/extend",
+    "description": "Các thành phần PHP có thể định cấu hình cho tiện ích mở rộng Flarum của bạn",
+    "type": "library",
+    "require": {
+        "flarum/core": "^0.1.0-beta.14"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyễn Văn Hậu",
+            "email": "ithauaz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ithauaz\\Extend\\": "src/"
+        }
+    }
+}
