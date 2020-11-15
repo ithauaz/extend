@@ -1,14 +1,5 @@
 <?php
 
-/*
-  * Tệp này là một phần của ithauaz/extend.
-  *
-  * Bản quyền (c) 2020 Ithauaz.
-  *
-  * Để biết đầy đủ thông tin về bản quyền và giấy phép, vui lòng xem LICENSE.md
-  * tệp đã được phân phối với mã nguồn này.
-  *
-  */
 
 namespace Ithauaz\Extend\Extend;
 
