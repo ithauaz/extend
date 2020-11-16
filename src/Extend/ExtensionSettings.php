@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Ithauaz\Extend\Extend;
+namespace Iris\Extend\Extend;
 
 use Flarum\Extend\ExtenderInterface;
 use Flarum\Extension\Extension;
