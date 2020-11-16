@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Ithauaz\Extend\Controllers;
+namespace Iris\Extend\Controllers;
 
 use Exception;
 use Flarum\Forum\Auth\Registration;
