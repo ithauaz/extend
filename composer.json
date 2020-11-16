@@ -1,5 +1,5 @@
 {
-    "name": "ithauaz/extend",
+    "name": "vniris/extend",
     "description": "Các thành phần PHP có thể định cấu hình cho tiện ích mở rộng Flarum của bạn",
     "type": "library",
     "require": {
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Ithauaz\\Extend\\": "src/"
+            "Iris\\Extend\\": "src/"
         }
     }
 }
